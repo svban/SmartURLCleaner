@@ -2,7 +2,7 @@
 // @name         Smart URL Cleaner
 // @namespace    https://github.com/svban/SmartURLCleaner
 // @version      1.0
-// @description  Remove only useless query parameters from URLs (like utm_source, fbclid, variant, etc.)
+// @description  Removes useless query parameters from URLs (like utm_source, fbclid, variant, etc.)
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
